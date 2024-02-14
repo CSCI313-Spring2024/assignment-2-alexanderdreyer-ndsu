@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+}   
+
+.container100 {
+    background-color: yellow;
+    text-align: center;
+}
+
+.container200 {
+    background-color: green;
+    text-align: center;
+}
+
+.container300 {
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.container300 ol {
+    list-style-position: inside; /* moves the list  */
+}
+
+.container100 {
+    text-align: center;
+}
+
+.container200 ul{
+    list-style-position: inside; /* moves the list  */
+    text-align: center;
+}
+
+.container101 {
+    text-align: center;
+}
+
+.image{
+    text-align: center;
+}
+
+.container102{
+    text-align: center;
+}
+
+.test{
+    text-align: center;
+}
